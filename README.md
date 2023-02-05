@@ -1,7 +1,7 @@
 # SKILLED-BASED-TEST-DATA-SCIENCE
 
 ## Get insights on customer ad clicks
-#Research Question
+## Research Question
 Movieland is a production company conducting market research
 for their next project. Since reviews provide insights into products,
 they would like to know from a given review dataset which movie
@@ -20,5 +20,5 @@ Python Programing language
 pandas
 sqlite3
 
-#Dataset
+## Dataset
 The dataset for this project can be found Kaggle website
