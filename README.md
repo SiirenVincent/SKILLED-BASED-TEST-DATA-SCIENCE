@@ -1,6 +1,6 @@
 # SKILLED-BASED-TEST-DATA-SCIENCE
 
-## Get insights on customer ad clicks
+## Get insights on  IMDb Movies
 ## Research Question
 Movieland is a production company conducting market research
 for their next project. Since reviews provide insights into products,
